@@ -36,10 +36,26 @@ new ShutdownHandler().on 'exit', ->
 lines = []
 nextLines = 0
 
+checkClearCanvas = ->
+  totalVotes = 0
+  votesNeeded = Math.ceil(server.clientCount * config.data.votesNeeded)
+  for cid, client of server.clients
+    totalVotes++ if client.clearCanvas
+  if totalVotes >= votesNeeded
+    lines = []
+    nextLines = 0
+    server.broadcast "reset", lines
+  else
+    server.broadcast "clear canvas votes", totalVotes
+
 server = new InteractiveServer "client", (socket, client) ->
+  server.broadcast "user count", server.clientCount
   socket.emit "revision", config.data.revision
   socket.emit "reset", lines
+  checkClearCanvas()
   socket.on "disconnect", ->
+    server.broadcast "user count", server.clientCount
+    checkClearCanvas()
     socket.broadcast.emit "remove client", socket.id
   socket.on "new line", (src, dst) ->
     if src? and dst?
@@ -62,6 +78,15 @@ server = new InteractiveServer "client", (socket, client) ->
   socket.on "mouse move", (x, y) ->
     if x? and y?
       socket.broadcast.emit "mouse move", client.id, x, y
+  socket.on "clear canvas", (clearCanvas) ->
+    client.clearCanvas = clearCanvas
+    checkClearCanvas()
+  socket.on "smiley", (x, y) ->
+    if x? and y?
+      client.lastSmiley ?= 0
+      if new Date().getTime() > client.lastSmiley + config.data.smileyDelay
+        socket.broadcast.emit "smiley", x, y
+        client.lastSmiley = new Date().getTime()
 
 stillAliveInterval = null
 listening = no
@@ -80,3 +105,4 @@ config = new ManagedJSON CONFIGFILE, (err) ->
     stillAliveInterval = setInterval ->
       server.broadcast 'still alive'
     , config.data.lifesign
+    checkClearCanvas()

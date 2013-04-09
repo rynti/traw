@@ -24,11 +24,16 @@ class InteractiveServer extends events.EventEmitter
       else
         socketIoOptions = arg2
     
+    @clientCount = 0
     @clients = {}
     @listener = http.createServer @handler
     @listener.on "listening", =>
       @io = socketio.listen @listener, socketIoOptions
       @io.sockets.on "connection", (socket) =>
+        @clientCount++
+        socket.on 'disconnect', =>
+          @clientCount--
+          delete @clients[socket.id]
         @clients[socket.id] = {}
         @clients[socket.id].id = socket.id
         @clients[socket.id].socket = socket
@@ -36,7 +41,8 @@ class InteractiveServer extends events.EventEmitter
 
   listen: (port, hostname) => @listener.listen port, hostname
 
-  broadcast: (args...) => @io.sockets.emit args...
+  broadcast: (args...) =>
+    @io?.sockets?.emit args...
 
   handler: (req, res) =>
     uri = decodeURI url.parse(req.url).pathname

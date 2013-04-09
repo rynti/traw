@@ -4,7 +4,7 @@ body {
   overflow: hidden;
 }
 canvas {
-  background-color: #FFF;
+  background-image: url(/img/wavegrid.png);
   margin: 0;
   left: 0;
   top: 0;
@@ -26,10 +26,66 @@ canvas {
   box-shadow: rgba(200, 0, 0, 0.3) 0px 0px 16px;
   color: #733;
 }
+.cursors, .smileys {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cursors {
+  z-index: 4;
+  pointer-events: none;
+}
+.smileys {
+  z-index: 3;
+  pointer-events: none;
+}
 .cursor {
   position: absolute;
-  z-index: 5;
   background: url(/img/cursor.png) -3px 0 no-repeat;
   width: 16px;
   height: 16px;
+}
+.gui {
+  position: relative;
+  z-index: 100;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  border: rgba(0, 0, 0, 0.5) 1px solid;
+  box-shadow: inset rgba(0, 0, 0, 0.2) 0 0 16px, rgba(0, 0, 0, 0.4) 0 0 16px;
+  padding: 8px;
+  margin: 16px;
+  width: 100px;
+  text-align: center;
+  color: #FFF;
+}
+.total-people {
+  display: block;
+  text-align: left;
+  padding: 2px 8px 6px 8px;
+  margin-bottom: 8px;
+}
+.total-people i {
+  margin-right: 6px;
+}
+.smiley {
+  position: absolute;
+  display: none;
+  background-image: url(/img/smiley.png);
+  width: 128px;
+  height: 128px;
+  margin-left: -64px;
+  margin-top: -64px;
+}
+.clear-canvas-votes {
+  display: inline-block;
+  width: 22px;
+  text-align: left;
+  padding-left: 4px;
+}
+.lock-input {
+  float: right;
+  width: 21px;
+  padding: 1px 2px 0 2px;
+  margin-top: -2px;
+  margin-right: -8px;
 }

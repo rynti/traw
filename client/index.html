@@ -8,6 +8,14 @@
   </head>
   <body>
     <div id="container"></div>
+    <div class="gui">
+      <div class="total-people">
+        <i class="icon-user icon-white"></i><span>...</span>
+        <button class="lock-input btn btn-mini" title="Lock Input"><i class="icon-lock"></i></button>
+      </div>
+      <button class="clear-canvas btn" title="Clear Canvas"><i class="icon-trash"></i><div class="clear-canvas-votes"></div></button>
+      
+    </div>
     <div class="message reset">
       The canvas has been cleared!
     </div>
@@ -15,6 +23,9 @@
       No connection to the server :(
     </div>
     <div class="cursors">
+    </div>
+    <div class="smileys">
+    <div class="smiley"></div>
     </div>
     <script src="js/jquery.min.js"></script>
     <script src="/socket.io/socket.io.js"></script>

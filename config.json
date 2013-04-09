@@ -2,7 +2,9 @@
   "locale": "en",
   "port": 80,
   "lifesign": 1000,
-  "revision": 7,
+  "revision": 12,
   "cacheLines": true,
-  "cacheLinesLimit": 5000
+  "cacheLinesLimit": 250000,
+  "votesNeeded": 0.75,
+  "smileyDelay": 200
 }
