@@ -1,0 +1,16 @@
+{
+    "name": "traw",
+    "version": "1.0.0",
+    "description": "An online collaborative draw tool.",
+    "author": "Robert 'rynti' Böhm <robert.boehm94@gmail.com>",
+    "dependencies": {
+        "socket.io": "0.9.x",
+        "mime": "1.2.x",
+        "coffee-script": "1.4.x",
+        "winston": "0.6.x",
+        "commander": "1.1.x",
+        "wrench": "1.4.x",
+        "morph": "0.2.x"
+    },
+    "engine": "node >= 0.8.5"
+}

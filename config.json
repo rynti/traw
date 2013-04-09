@@ -1,0 +1,8 @@
+{
+  "locale": "en",
+  "port": 80,
+  "lifesign": 1000,
+  "revision": 7,
+  "cacheLines": true,
+  "cacheLinesLimit": 5000
+}

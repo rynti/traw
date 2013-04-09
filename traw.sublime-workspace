@@ -1,0 +1,1430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newScrollPosition"
+			],
+			[
+				"sea",
+				"seasonsFreeSpace"
+			],
+			[
+				"top",
+				"topHeight"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"seaso",
+				"seasonsContainer"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tra",
+				"translateZ"
+			],
+			[
+				"ne",
+				"nextDummyPostersId"
+			],
+			[
+				"chec",
+				"checkSeries"
+			],
+			[
+				"for",
+				"fori	Range Comprehension (inclusive)"
+			],
+			[
+				"ar",
+				"archiveManager"
+			],
+			[
+				"sock",
+				"socketIoOptions"
+			],
+			[
+				"ex",
+				"extensions"
+			],
+			[
+				"targ",
+				"targetPath"
+			],
+			[
+				"con",
+				"consoleLogLevel"
+			],
+			[
+				"log",
+				"loglevel"
+			],
+			[
+				"tar",
+				"targetPath"
+			],
+			[
+				"watc",
+				"watched-folders"
+			],
+			[
+				"req",
+				"requestConfigurationSave"
+			],
+			[
+				"Mo",
+				"ManagedJSON"
+			],
+			[
+				"Shut",
+				"ShutdownHandler"
+			],
+			[
+				"someF",
+				"someFuncParameter"
+			],
+			[
+				"someFu",
+				"someFuncRfr"
+			],
+			[
+				"somefun",
+				"someFuncPtr"
+			],
+			[
+				"Comm",
+				"CommandHandler"
+			],
+			[
+				"pass",
+				"password_length"
+			],
+			[
+				"comm",
+				"communicator"
+			],
+			[
+				"colo",
+				"colorBet"
+			],
+			[
+				"money",
+				"moneyBet"
+			],
+			[
+				"LOG_",
+				"LOG_INFO"
+			],
+			[
+				"generate",
+				"generateKey"
+			],
+			[
+				"vidst",
+				"vidStreamerSettings"
+			],
+			[
+				"vidStr",
+				"vidStreamerSettings"
+			],
+			[
+				"curr",
+				"currentVideoStartedOn"
+			],
+			[
+				"current",
+				"currentVideoStartedOn"
+			],
+			[
+				"curre",
+				"currentVideo"
+			],
+			[
+				"splitt",
+				"splittedDuration"
+			],
+			[
+				"curren",
+				"currentVideoStartedOn"
+			],
+			[
+				"re",
+				"req	require"
+			],
+			[
+				"setTimeout",
+				"setTimeout();"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"MAS",
+				"MASTER_HOST"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tag",
+				"tagstats"
+			],
+			[
+				"repl",
+				"replaceInLines"
+			],
+			[
+				"colum",
+				"columnLengths"
+			],
+			[
+				"link",
+				"link	link - next"
+			],
+			[
+				"dista",
+				"distanceLeft"
+			],
+			[
+				"cir",
+				"circleCenterToTargetSq"
+			],
+			[
+				"diff",
+				"diffX"
+			],
+			[
+				"circ",
+				"circleCenterToTarget"
+			],
+			[
+				"firs",
+				"firstMap"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"denom",
+				"denominations"
+			],
+			[
+				"deno",
+				"denominations"
+			],
+			[
+				"pri",
+				"priceCount"
+			],
+			[
+				"dataS",
+				"dataSetIndex"
+			],
+			[
+				"dataSet",
+				"dataSetCount"
+			],
+			[
+				"tex-",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"first",
+				"first_line_pos"
+			],
+			[
+				"langu",
+				"language_pos"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"page",
+				"page_content"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"langua",
+				"language_pos"
+			],
+			[
+				"mark",
+				"markdown"
+			],
+			[
+				"needle",
+				"needle_end"
+			],
+			[
+				"reserved",
+				"reserved_to_date"
+			],
+			[
+				"reserv",
+				"reserved_from_date"
+			],
+			[
+				"l",
+				"list	list-style-type: other"
+			],
+			[
+				"showInh",
+				"showInheritedVar"
+			],
+			[
+				"outp",
+				"outputSomething"
+			],
+			[
+				"ba",
+				"banner"
+			],
+			[
+				"qu",
+				"quote_plus  (function)"
+			],
+			[
+				"connec",
+				"connection"
+			],
+			[
+				"comman",
+				"commandsBuffer"
+			],
+			[
+				"command",
+				"commandsLength"
+			],
+			[
+				"getCo",
+				"getCommandsLength"
+			],
+			[
+				"valueL",
+				"valueLengths"
+			],
+			[
+				"webinterface",
+				"webinterface"
+			],
+			[
+				"webinter",
+				"webinterface"
+			],
+			[
+				"WEBIN",
+				"WEBINTERFACE_PORT"
+			],
+			[
+				"WEBINTER",
+				"WEBINTERFACE_ENABLE"
+			],
+			[
+				"util",
+				"util.inspect(obj, showHidden, depth, colors);"
+			],
+			[
+				"createSer",
+				"http.createServer(requestListener);"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"inven",
+				"inventory"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"inden",
+				"indentSize"
+			],
+			[
+				"indent",
+				"indent_size"
+			],
+			[
+				"java",
+				"java"
+			],
+			[
+				"testF",
+				"testFunction1"
+			],
+			[
+				"htm",
+				"html"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"toggl",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"jscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"docre",
+				"Snippet: document ready (safe)"
+			],
+			[
+				"docrea",
+				"Snippet: document ready (safe)"
+			],
+			[
+				"plaintxt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"haxe",
+				"Set Syntax: HaXe2"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"jsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jvs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"documen",
+				"Snippet: document ready (safe)"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"newfile",
+				"File: New File Relative to Current View"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pcdp",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"pc:",
+				"Package Control: Enable Package"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"upack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ff",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet:",
+				"Snippet: html"
+			],
+			[
+				"assembl",
+				"Set Syntax: x86 Assembly"
+			],
+			[
+				"assemb",
+				"Set Syntax: x86 Assembly"
+			],
+			[
+				"assem",
+				"Set Syntax: x86 Assembly"
+			],
+			[
+				"ngin",
+				"Set Syntax: nginx"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"asse",
+				"Set Syntax: x86 Assembly"
+			],
+			[
+				"cam",
+				"Camaleón : Next Color Scheme and Chrome Theme"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"auto",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"to tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ass",
+				"Set Syntax: x86 Assembly"
+			],
+			[
+				"bookm",
+				"Bookmarks: Clear All"
+			],
+			[
+				"bookma",
+				"Bookmarks: Toggle"
+			],
+			[
+				"set mark",
+				"Snippet: <mark>"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Toggle"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"syntaxshell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"copy",
+				"Clipboard Manager: Copy"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"namespa",
+				"Insert PHP namespace"
+			],
+			[
+				"syntax plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax ini",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Enable Background Linting"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Background Linting"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"came",
+				"Camaleón"
+			],
+			[
+				"color",
+				"Sweyla's Color Theme Generator: Generate bright!"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"asty",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"astyl",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"gitk",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 306.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/dev/projects/node.js/traw/traw.log",
+		"/E/Downloads/ismoothblog-drm-removal-v4/Calibre Plugins/ReadMe_First.txt",
+		"/X/JDownloader Downloads/TS3UCv7-tdo/#3 Addons/The.Sims.3.University.Life-TDO/ts3ep9-tdo.nfo",
+		"/X/JDownloader Downloads/TS3UCv7-tdo/#2 The.Sims.3.Update.v1.50.56-BAT/battery.nfo",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg",
+		"/E/Downloads/CSGO-Movie_and_Gaming-Cfgs/CSS-Mvmcfg/cfg/autoexec.cfg",
+		"/E/Downloads/CSGO-Movie_and_Gaming-Cfgs/CSS-Mvmcfg/Links-IMPORTANT.txt",
+		"/D/dev/projects/node.js/mighty-v/app.coffee",
+		"/D/dev/projects/node.js/mighty-v/client/js/seasons.coffee",
+		"/D/dev/projects/node.js/mighty-v/client/js/app.coffee",
+		"/D/dev/projects/node.js/mighty-v/client/seasons.html",
+		"/D/dev/projects/node.js/mighty-v/client/css/style.css",
+		"/D/dev/projects/node.js/mighty-v/client/fonts/BebasNeue-webfont.css",
+		"/E/Downloads/bebas-neue-fontfacekit/Dharma Type Font License.txt",
+		"/E/Downloads/bebas-neue-fontfacekit/BebasNeue-webfont.css",
+		"/E/Downloads/bebas-neue-fontfacekit/stylesheet.css",
+		"/D/dev/projects/node.js/mighty-v/client/index.html",
+		"/E/Downloads/training_aim_csgo_2/Readme.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Counter-Strike Global Offensive/csgo/cfg/config.cfg",
+		"/E/Downloads/MarkC_Windows_8+7_MouseFix/!MarkC_Windows_8+7_MouseFix_ReadMe.txt",
+		"/E/Downloads/MarkC_Windows_8+7_MouseFix/Windows 7 Fixes/Windows_7_MouseFix_TextSize(DPI)=100%_Scale=1-to-1_@6-of-11.reg",
+		"/E/Dropbox/dev/projects/node.js/mighty-v/client/index.html",
+		"/D/Dev/projects/school/insy_transformations.html",
+		"/D/Dev/projects/school/insytransitions.html",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 3/Packages/sublime-better-coffeescript/CoffeeScript.sublime-build",
+		"/D/dev/projects/node.js/mighty-v/mighty-v/file_inspector.coffee",
+		"/D/dev/projects/node.js/mighty-v/mighty-v/interactive_server.coffee",
+		"/D/Dev/projects/node.js/mighty-v/mighty-v/archive_manager.coffee",
+		"/D/Dropbox/Schule/4BI/MAMW/Preiszeugs.txt",
+		"/D/dev/projects/node.js/mighty-v/config.json",
+		"/D/dev/projects/node.js/mighty-v/mighty-v/app.coffee",
+		"/D/Dropbox/dev/projects/studentmanager-x3ki/app.coffee",
+		"/D/Dev/projects/node.js/mighty-v/mighty-v/file_inspector.coffee",
+		"/E/Dropbox/Documents/MediaTool.txt",
+		"/D/Dev/projects/node.js/mighty-v/mighty-v/shutdown_handler.coffee",
+		"/D/Dev/projects/node.js/mighty-v/mighty-v/managed_json.coffee",
+		"/D/Dev/projects/node.js/mighty-v/mighty-v/app.coffee",
+		"/D/dev/projects/node.js/mighty-v/package.json",
+		"/D/dev/projects/node.js/mighty-v/locale.json",
+		"/D/dev/projects/node.js/mighty-v/mighty-v.log",
+		"/Y/JDownloader Downloads/Chaos City/Chaos.City.S01E01.New.York.New.York.German.Dubbed.FS.DVDRiP.XViD-CiD/cid-chaoscity-s01e01.nfo",
+		"/D/dev/projects/node.js/mighty-v/mighty-v/log.coffee",
+		"/D/dev/projects/node.js/mighty-v/debug.log",
+		"/C/Users/rynti/Desktop/test.txt",
+		"/D/dev/projects/node.js/mighty-v/config5.json",
+		"/D/dev/projects/node.js/mighty-v/mighty-v/shutdown_handler.coffee",
+		"/D/Dev/projects/node.js/mighty-v/client/index.html",
+		"/D/Dev/projects/node.js/mighty-v/package.json",
+		"/D/Dev/projects/node.js/mighty-v/data.json",
+		"/D/Dev/projects/node.js/mighty-v/app.coffee",
+		"/D/Dev/projects/node.js/mighty-v/app.js",
+		"/D/Dev/projects/node.js/mighty-v/client/scripts/app.coffee",
+		"/D/Dropbox/Schule/4BI/DBSY/2013-02-11/Uebung2-1-Northwind-Update-1.sql",
+		"/D/Dropbox/Schule/4BI/DBSY/somesql.sql",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/OlympiadeTraining1/Rucksack.cpp",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/OlympiadeTraining1/Additions.cpp",
+		"/C/Users/rynti/Desktop/test.cpp",
+		"/C/Users/rynti/llvm/llvm/utils/llvm-build/llvmbuild/__init__.py",
+		"/C/Users/rynti/llvm/llvm/utils/llvm-build/llvmbuild/main.py",
+		"/C/Program Files (x86)/Vim/_vimrc",
+		"/C/Users/rynti/_vimrc",
+		"/C/Users/rynti/_viminfo",
+		"/C/Users/rynti/vimrc~",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/Release/cache.txt",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/OlympiadeTraining1/StockReview.cpp",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/OlympiadeTraining1/Numeric.cpp",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/OlympiadeTraining1/Kombinationen.cpp",
+		"/D/Dev/projects/VS2012/Projects/OlympiadeTraining1/OlympiadeTraining1/Permutations.cpp",
+		"/D/Dropbox/dev/projects/python/contest.py",
+		"/D/Dev/projects/python/Catalysts CatCoder Contest/contest.py",
+		"/D/Dev/projects/python/test.py",
+		"/D/Dropbox/dev/projects/VS2012/Projects/MPCAW02L06/MPCAW02L06/4bi_boehm_02_level07.cpp",
+		"/D/Dropbox/dev/projects/VS2012/Projects/MPCAW02L06/MPCAW02L06/multi1.cpp",
+		"/D/Dropbox/dev/projects/VS2012/Projects/MPCAW02L06/MPCAW02L06/multi2_best.cpp",
+		"/D/Dropbox/dev/projects/VS2012/Projects/MPCAW02L06/MPCAW02L06/oldmain.cpp",
+		"/D/Dropbox/dev/projects/VS2012/Projects/MPCAW02L06/MPCAW02L06/single.cpp",
+		"/D/Dev/projects/Economy Wars/server/communicator.coffee",
+		"/C/Windows/System32/drivers/etc/services",
+		"/D/Dev/projects/Economy Wars/server/economy-wars-server.sublime-workspace",
+		"/D/Dev/projects/Economy Wars/server/economy-wars-server.sublime-project",
+		"/E/Dropbox/Documents/serienausstrahlungen.txt",
+		"/E/Downloads/photoshop-v.1.0.1-source-code/UTIFFormat.p",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/dev/projects/Economy Wars/server/master_command_handler.coffee",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 3/Packages/sublime-better-coffeescript/CoffeeScript.sublime-settings",
+		"/E/dev/projects/Economy Wars/server/master.coffee",
+		"/E/Downloads/Package Control.sublime-package",
+		"/E/dev/projects/Economy Wars/server/.key",
+		"/D/Dev/projects/misc/pingtest/index.html",
+		"/D/Dropbox/Documents/MPCAWeek6.txt",
+		"/G/Neuer Ordner/befehl.txt",
+		"/D/Dropbox/Documents/MPCAWeek6",
+		"/D/Virtual Machines/daten.txt",
+		"/D/Virtual Machines/instnwnd-mit-path.sql",
+		"/D/Dev/projects/Economy Wars/server/master_command_handler.coffee",
+		"/D/Dev/projects/Economy Wars/server/slave.coffee",
+		"/D/Dev/projects/Economy Wars/server/slave_command_handler.coffee",
+		"/D/Dev/projects/Economy Wars/server/master.coffee",
+		"/D/Dev/projects/Economy Wars/server/master.json",
+		"/D/Dev/projects/Economy Wars/server/toolkit.coffee",
+		"/D/Dev/projects/Economy Wars/server/command_handler.coffee",
+		"/C/Users/rynti/.gitconfig",
+		"/C/Users/rynti/difftool.sh",
+		"/D/Dev/projects/ZeldaGame/zeldagameserver/Command.coffee",
+		"/D/Dev/projects/python/4bi_boehm_03_level06_mazesolver.py",
+		"/D/Dev/projects/Economy Wars/server/command.coffee",
+		"/D/Dev/projects/Economy Wars/server/Command.coffee",
+		"/D/Dev/projects/Economy Wars/server/commands.coffee",
+		"/D/Dev/projects/Economy Wars/server/commands.json",
+		"/D/Dropbox/Documents/webstorm.txt",
+		"/D/Dropbox/4BI English 2012-2013/4.form/GRA/What We Like/What I Like #01.html",
+		"/D/Dropbox/4BI English 2012-2013/4.form/GRA/What We Like/What We Like 01.html",
+		"/D/Dropbox/4BI English 2012-2013/4.form/GRA/What We Like/What We Like 01.txt",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/rynti/Desktop/testi.js",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/D/Dev/projects/Economy Wars/server/slave.json",
+		"/C/Users/rynti/Desktop/test.py",
+		"/D/Dev/projects/Economy Wars/server/.key",
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/Dropbox/Schule/4BI/NWTK/2012-12-13 Result.txt",
+		"/D/Dropbox/Schule/4BI/NWTK/router config protocol.txt",
+		"/D/Dev/projects/ZeldaGame/zeldagameserver/Client.coffee",
+		"/D/Dev/projects/Economy Wars/server/package.json",
+		"/D/Dev/projects/ZeldaGame/zeldagameserver/GameServer.coffee",
+		"/C/Users/rynti/Desktop/drupal-7.15.tar/danland-7.x-1.0/danland/page.tpl.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"D",
+			"C",
+			"'",
+			"\n           <a href=\"#\"><i>1</i><h2>Redemption</h2></a>\n           <a href=\"#\"><i>2</i><h2>The Scarlet Letter</h2></a>\n           <a href=\"#\"><i>3</i><h2>Red Badge</h2></a>\n           <a href=\"#\"><i>4</i><h2>Red Menace</h2></a>\n           <a href=\"#\"><i>5</i><h2>Red Scare</h2></a>\n           <a href=\"#\"><i>6</i><h2>Block Gold and Red Blood</h2></a>\n           <a href=\"#\"><i>7</i><h2>Red Bulls</h2></a>\n           <a href=\"#\"><i>8</i><h2>His Red Right Hand</h2></a>\n           <a href=\"#\"><i>9</i><h2>A Price Above Rubies</h2></a>\n          <a href=\"#\"><i>10</i><h2>Throwing Fire</h2></a>\n          <a href=\"#\"><i>11</i><h2>Rose-Colored Glasses</h2></a>\n          <a href=\"#\"><i>12</i><h2>Bleeding Heart</h2></a>\n          <a href=\"#\"><i>13</i><h2>Redline</h2></a>\n          <a href=\"#\"><i>14</i><h2>Blood In, Blood Out</h2></a>\n          <a href=\"#\"><i>15</i><h2>Red Herring</h2></a>\n          <a href=\"#\"><i>16</i><h2>Code Red</h2></a>\n          <a href=\"#\"><i>17</i><h2>The Red Box</h2></a>\n          <a href=\"#\"><i>18</i><h2>Aingavite Baa</h2></a>\n          <a href=\"#\"><i>19</i><h2>Blood Money</h2></a>\n          <a href=\"#\"><i>20</i><h2>Red All Over</h2></a>\n          <a href=\"#\"><i>21</i><h2>18-5-4</h2></a>\n          <a href=\"#\"><i>22</i><h2>Red Letter</h2></a>\n          <a href=\"#\"><i>23</i><h2>Red Sky in the Morning</h2></a>",
+			"offset",
+			"h1",
+			"<h1>.*</h1>",
+			"<h1>",
+			"span class=\"episode-number\"",
+			")",
+			"(",
+			" \"",
+			"removeClass",
+			"\"",
+			"seasons",
+			"height",
+			"120",
+			"top-scrolled",
+			" \"",
+			" ",
+			"$(\".top\")",
+			"bottom",
+			"div",
+			"1s",
+			"opacity",
+			".top-scrolled",
+			"tbbt",
+			"0.1s",
+			"- ",
+			"=>",
+			"StringExtensions",
+			"->",
+			"in",
+			"=>",
+			"winston",
+			"commander",
+			"timestamp",
+			".inspector",
+			"'",
+			"config",
+			"watcher",
+			"'",
+			"onRead",
+			"configuration",
+			"databaseDump",
+			"requestConfigurationSave",
+			"isSaving",
+			"requestDatabaseSave",
+			"Database",
+			"database",
+			"DATAFILE",
+			"'",
+			"  ",
+			"abdhsj",
+			"/D/Dev/projects/Economy Wars/server",
+			"/D/Dev/projects/Economy Wars/server.",
+			"/D/Dev/projects/Economy Wars/server",
+			"/D/",
+			"D/",
+			"\n-",
+			"- ",
+			"-",
+			"*",
+			"1",
+			"0",
+			"fillArray",
+			"arguments",
+			"'",
+			"Heartbeat",
+			"    ",
+			"	",
+			"data",
+			"bet",
+			"socket",
+			"buf",
+			"expected",
+			"LOG_INFO",
+			"private",
+			"configFile",
+			"MASTER_PORT",
+			"PORT",
+			"HOST",
+			"(",
+			"arguments",
+			"arg",
+			"\"0x",
+			"\": ",
+			"slide1_",
+			"1280px",
+			"h3",
+			"FFF",
+			"FF",
+			"fs.",
+			"no such file",
+			"req.url",
+			"$('video').get(0)",
+			";",
+			"0px",
+			"48px",
+			"48",
+			"16",
+			"h1",
+			"0",
+			"offset",
+			"s",
+			"2px",
+			"  ",
+			"DebugSqlActiveRecordDatabase",
+			"bkg",
+			"%ODD%",
+			"odd",
+			"\n\n",
+			"\n",
+			"$('.chathistory')",
+			" Hey guys!",
+			"rynti",
+			"rynti:",
+			":",
+			"0",
+			"    ",
+			"1s",
+			"height",
+			"max-width 1s",
+			".{5,}",
+			"specialRegex",
+			"m",
+			"m2",
+			"subRegex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<h1></h1>",
+			"",
+			"-",
+			".",
+			"  ",
+			"    ",
+			"  ",
+			":",
+			".",
+			"#",
+			"x",
+			"ü",
+			"Ü",
+			" ",
+			"",
+			"\\1 \\2 \\3 \\4 \\5\\n",
+			"\\1, \\2, \\3, \\4, \\5",
+			"\\1",
+			";",
+			"\\\\n",
+			"255,255,255",
+			".header .title",
+			".header .subtitle",
+			".header .title",
+			".title",
+			"",
+			"$1Sound = Sound.fromAssets(\"sounds/$1.wav\");",
+			"$1Soundo",
+			"",
+			"$this->mysql",
+			"",
+			"git mv \\1 \\2",
+			"...boehm.rygal",
+			"net.r...m.rygal",
+			"net.r ... m.rygal",
+			"net.ro(...)hm.rygal",
+			"net.robertboehm.rygal",
+			"net.rygal",
+			"org",
+			"\"$1\"; this.$1Button.setText(\"...\");",
+			"Controls.$1 == RyKeys.UNKNOWN ? \"\" : RyKeys.getKeyName(Controls.$1)",
+			"Controls.$1 == RyKeys.UNKNOWN ? \"\" : RyKeys.getKeyName(Controls.$1) ",
+			"Controls.$1 == RyKeys.UNKNOWN ? \"\" RyKeys.getKeyName(Controls.$1) ",
+			"case $2: currentConfig = \"$1\";",
+			"this.$1Button.setText(RyKeys.getKeyName(Controls.$1));",
+			"this.$1.setText(RyKeys.getKeyName(Controls.$1));",
+			"this.$1 = createButton();",
+			"this.addChild(this.$1);",
+			"if ($1 != RyKeys.UNKNOWN && keyboard.isPressed($1))",
+			"$1keyboard:RyKeyboard",
+			"$1 = s.get($1, RyKeys.);",
+			"this.",
+			" = 0",
+			"",
+			"flac",
+			"",
+			"WAVE",
+			"FLAC",
+			".flac",
+			"$_",
+			"$v['\\1']",
+			"",
+			"\\n",
+			"",
+			" ",
+			"",
+			"$1:Int = getLetterKeyCode(\"$1\");",
+			"$1:Int = \"$1\".charCodeAt(0);",
+			"\\\"",
+			"	",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 472.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 235.0
+	},
+	"project": "traw.sublime-project",
+	"replace":
+	{
+		"height": 938.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tes",
+				"test.js"
+			],
+			[
+				"te",
+				"a/b/c/test.js"
+			],
+			[
+				"sam",
+				"sample.css"
+			],
+			[
+				"t",
+				"a/b/c/test.js"
+			],
+			[
+				"sa",
+				"sample.css"
+			],
+			[
+				"",
+				"/E/Dropbox/dev/projects/python/googleproblem.py"
+			],
+			[
+				"vie",
+				"views/TestView.class.php"
+			],
+			[
+				"u",
+				"untitled"
+			],
+			[
+				"he",
+				"Hello"
+			],
+			[
+				"un",
+				"untitled"
+			],
+			[
+				"test.php",
+				"/C/Users/rynti/Desktop/test.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

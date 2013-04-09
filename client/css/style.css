@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+canvas {
+  background-color: #FFF;
+  margin: 0;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+.message {
+  position: relative;
+  z-index: 99;
+  display: none;
+  width: 200px;
+  padding: 16px;
+  margin: 16px;
+  background-color: rgba(0, 0, 0, 0.3);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 16px;
+  border-radius: 16px;
+}
+.message.red {
+  background-color: rgba(200, 0, 0, 0.3);
+  box-shadow: rgba(200, 0, 0, 0.3) 0px 0px 16px;
+  color: #733;
+}
+.cursor {
+  position: absolute;
+  z-index: 5;
+  background: url(/img/cursor.png) -3px 0 no-repeat;
+  width: 16px;
+  height: 16px;
+}
