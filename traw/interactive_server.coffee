@@ -39,7 +39,11 @@ class InteractiveServer extends events.EventEmitter
         @clients[socket.id].socket = socket
         @emit "connection", socket, @clients[socket.id]
 
-  listen: (port, hostname) => @listener.listen port, hostname
+  listen: (port, hostname) =>
+    try
+      @listener.listen port, hostname
+    catch e
+      throw e
 
   broadcast: (args...) =>
     @io?.sockets?.emit args...
