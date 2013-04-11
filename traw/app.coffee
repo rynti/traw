@@ -48,7 +48,12 @@ checkClearCanvas = ->
   else
     server.broadcast "clear canvas votes", totalVotes
 
-server = new InteractiveServer "client", (socket, client) ->
+socketIoOptions =
+  "log level": 1
+  "transports": ["xhr-polling"]
+  "polling duration": 10
+
+server = new InteractiveServer "client", socketIoOptions, (socket, client) ->
   server.broadcast "user count", server.clientCount
   socket.emit "revision", config.data.revision
   socket.emit "reset", lines
