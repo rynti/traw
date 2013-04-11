@@ -97,7 +97,7 @@ config = new ManagedJSON CONFIGFILE, (err) ->
   else
     console.log "Configuration file loaded."
     if not listening
-      server.listen config.data.port
+      server.listen process.env.PORT || config.data.port
       listening = true
     else
       server.broadcast 'revision', config.data.revision
