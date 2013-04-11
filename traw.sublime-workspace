@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"scale",
+				"scaleOffsetX"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"vot",
+				"votesNeeded"
+			],
+			[
+				"vote",
+				"votesLeft"
+			],
+			[
+				"for",
+				"forin	Array Comprehension"
+			],
+			[
+				"clie",
+				"clientCount"
+			],
+			[
+				"clear",
+				"clearCanvas"
+			],
+			[
+				"clea",
+				"clearCanvas"
+			],
+			[
+				"list",
+				"listening"
+			],
+			[
+				"still",
+				"stillAliveInterval"
+			],
+			[
+				"no",
+				"noConnectionTimeout"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
 				"new",
 				"newScrollPosition"
 			],
@@ -54,10 +102,6 @@
 			[
 				"chec",
 				"checkSeries"
-			],
-			[
-				"for",
-				"fori	Range Comprehension (inclusive)"
 			],
 			[
 				"ar",
@@ -274,10 +318,6 @@
 			[
 				"margin",
 				"margin-left"
-			],
-			[
-				"back",
-				"background-color"
 			],
 			[
 				"padd",
@@ -931,6 +971,17 @@
 	},
 	"file_history":
 	[
+		"/E/dev/projects/node.js/traw/client/css/style.css",
+		"/E/dev/projects/node.js/traw/client/index.html",
+		"/E/dev/projects/node.js/traw/client/js/app.coffee",
+		"/E/dev/projects/node.js/traw/traw/app.coffee",
+		"/E/dev/projects/node.js/traw/config.json",
+		"/E/dev/projects/node.js/traw/traw/interactive_server.coffee",
+		"/E/dev/projects/node.js/traw/package.json",
+		"/E/dev/projects/node.js/traw/README.md",
+		"/E/dev/projects/node.js/traw/app.coffee",
+		"/E/dev/projects/node.js/traw/traw/archive_manager.coffee",
+		"/E/dev/projects/node.js/traw/locale.json",
 		"/E/dev/projects/node.js/traw/traw.log",
 		"/E/Downloads/ismoothblog-drm-removal-v4/Calibre Plugins/ReadMe_First.txt",
 		"/X/JDownloader Downloads/TS3UCv7-tdo/#3 Addons/The.Sims.3.University.Life-TDO/ts3ep9-tdo.nfo",
@@ -1047,22 +1098,11 @@
 		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
 		"/C/Users/rynti/Desktop/testi.js",
-		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
-		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
-		"/D/Dev/projects/Economy Wars/server/slave.json",
-		"/C/Users/rynti/Desktop/test.py",
-		"/D/Dev/projects/Economy Wars/server/.key",
-		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-		"/D/Dropbox/Schule/4BI/NWTK/2012-12-13 Result.txt",
-		"/D/Dropbox/Schule/4BI/NWTK/router config protocol.txt",
-		"/D/Dev/projects/ZeldaGame/zeldagameserver/Client.coffee",
-		"/D/Dev/projects/Economy Wars/server/package.json",
-		"/D/Dev/projects/ZeldaGame/zeldagameserver/GameServer.coffee",
-		"/C/Users/rynti/Desktop/drupal-7.15.tar/danland-7.x-1.0/danland/page.tpl.php"
+		"/C/Users/rynti/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 42.0
 	},
 	"find_in_files":
 	{
@@ -1076,6 +1116,60 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"UPDATE_LIMIT",
+			"lineWidth",
+			"context",
+			"drawLine",
+			"context.lineCap",
+			"context",
+			"Context",
+			"context",
+			"Factor",
+			"offsetY",
+			"offsetX",
+			"refreshScaleFactors",
+			"canvas",
+			"Canvas",
+			"canvas",
+			"scaleX",
+			"normY ",
+			"normX",
+			"canvas.width()",
+			"canvas.height()",
+			" / canvas.height()",
+			" / canvas.width()",
+			"canvas.width",
+			"dstY",
+			"context =",
+			"context",
+			"canvas.wid",
+			"canvas.width()",
+			"canvas.width",
+			"drawLine",
+			"canvas",
+			"$document",
+			"success",
+			"clear-canvas",
+			"toggleClearCanvasVote",
+			"div",
+			"clear-canvas-votes",
+			"span",
+			"primary",
+			"success",
+			"label",
+			"allLines",
+			"100",
+			"lastLine",
+			"lines",
+			"src",
+			"150",
+			"offsetY",
+			"offsetX",
+			"$window",
+			"0.5",
+			"previousPosition",
+			"clientY",
+			"clientX",
 			"D",
 			"C",
 			"'",
@@ -1149,61 +1243,7 @@
 			"	",
 			"data",
 			"bet",
-			"socket",
-			"buf",
-			"expected",
-			"LOG_INFO",
-			"private",
-			"configFile",
-			"MASTER_PORT",
-			"PORT",
-			"HOST",
-			"(",
-			"arguments",
-			"arg",
-			"\"0x",
-			"\": ",
-			"slide1_",
-			"1280px",
-			"h3",
-			"FFF",
-			"FF",
-			"fs.",
-			"no such file",
-			"req.url",
-			"$('video').get(0)",
-			";",
-			"0px",
-			"48px",
-			"48",
-			"16",
-			"h1",
-			"0",
-			"offset",
-			"s",
-			"2px",
-			"  ",
-			"DebugSqlActiveRecordDatabase",
-			"bkg",
-			"%ODD%",
-			"odd",
-			"\n\n",
-			"\n",
-			"$('.chathistory')",
-			" Hey guys!",
-			"rynti",
-			"rynti:",
-			":",
-			"0",
-			"    ",
-			"1s",
-			"height",
-			"max-width 1s",
-			".{5,}",
-			"specialRegex",
-			"m",
-			"m2",
-			"subRegex"
+			"socket"
 		],
 		"highlight": true,
 		"in_selection": false,

@@ -2,6 +2,7 @@ window.console ?= log: ->
 
 jQuery(document).ready ($) ->
   allLines = []
+  touches = {}
   previousPosition = null
   container = $('#container')
   canvas = null
@@ -16,7 +17,7 @@ jQuery(document).ready ($) ->
   scaleFactorY = 1
   scaleOffsetX = 0
   scaleOffsetY = 0
-  LINE_WIDTH = 2
+  LINE_WIDTH = 3
   UPDATE_LIMIT = 15
 
   $('.lock-input').click (e) ->
@@ -124,6 +125,7 @@ jQuery(document).ready ($) ->
     container.empty()
     canvas = $('<canvas>').prop width: $window.width(), height: $window.height()
     canvas.mousedown onMouseDown
+    canvas[0].ontouchstart = onTouchStart
     canvas.appendTo(container)
     context = canvas[0].getContext '2d'
     context.lineCap = 'round'
@@ -135,6 +137,8 @@ jQuery(document).ready ($) ->
     context.stroke()
 
   socket.on "mouse move", (cid, x, y) ->
+    x = scaleX x
+    y = scaleY y
     if $(".cursor-#{cid}").length == 0
       $(".cursors").append $("<div>").addClass("cursor").addClass("cursor-#{cid}")
     $(".cursor-#{cid}").css left: "#{x}px", top: "#{y}px"
@@ -193,6 +197,32 @@ jQuery(document).ready ($) ->
     else
       socket.emit "mouse move", normX(e.pageX), normY(e.pageY)
 
+  onTouchStart = (e) ->
+    e.preventDefault()
+    for i, v in e.touches
+      touches[i] = x: normX(e.pageX), y: normY(e.pageY)
+    #$('.total-people span').text e.touches[0].pageX + " : " + e.touches[0].pageY
+    #onMouseDown pageX: e.touches[0].pageX, pageY: e.touches[0].pageY
+    #alert e.touches[0].pageX
+    #x = ""
+    #for k, v of e
+    #  x += k + "\n"
+    #alert x
+  onTouchMove = (e) ->
+    e.preventDefault()
+    for i, v in e.touches
+      t = x: normX(e.pageX), y: normY(e.pageY)
+      newLine touches[i], t
+      # $('.total-people span').text t.x - touches[i].x
+      touches[i] = t
+    # $('.total-people span').text e.touches[0].pageX + " : " + e.touches[0].pageY
+    # onMouseMove pageX: e.touches[0].pageX, pageY: e.touches[0].pageY
+    # onMouseMove e.touches[0]
+  onTouchEnd = (e) ->
+    e.preventDefault()
+    # $('.total-people span').text e.touches[0].pageX + " : " + e.touches[0].pageY
+    # onMouseUp pageX: e.touches[0].pageX, pageY: e.touches[0].pageY
+    # onMouseUp e.touches[0]
 
   resizeTimeout = null
 
@@ -216,6 +246,8 @@ jQuery(document).ready ($) ->
   
   $document.mouseup onMouseUp
   $document.mousemove onMouseMove
+  document.ontouchmove = onTouchMove
+  document.ontouchend = onTouchEnd
   $window.resize onResize
   document.oncontextmenu = (e) -> return false
 

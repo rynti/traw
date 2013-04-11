@@ -10,7 +10,8 @@
         "winston": "0.6.x",
         "commander": "1.1.x",
         "wrench": "1.4.x",
-        "morph": "0.2.x"
+        "morph": "0.2.x",
+        "chokidar": "0.6.x"
     },
     "engine": "node >= 0.8.5"
 }
